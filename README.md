@@ -49,13 +49,13 @@ This repository contains an interactive web application where users can test the
 ## Screenshots
 
 ### Initial Screen
-![Initial Screen](https://via.placeholder.com/600x400)
+![Initial Screen](https://github.com/Darshanas17/Addition-Game/blob/main/Initial_Screen_Screenshot.png?raw=true)
 
 ### Correct Answer
-![Correct Answer](https://via.placeholder.com/600x400)
+![Correct Answer](https://github.com/Darshanas17/Addition-Game/blob/main/Correct_Answer_Screenshot.png?raw=true)
 
 ### Incorrect Answer
-![Incorrect Answer](https://via.placeholder.com/600x400)
+![Incorrect Answer](https://github.com/Darshanas17/Addition-Game/blob/main/Incorrect_Answer_Screenshot.png?raw=true)
 
 ## Contributing
 
